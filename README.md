@@ -28,7 +28,9 @@ I use Obsidian to document technical learnings and system designs.
 
 ### 💻 Công Nghệ Tôi Đã Sử Dụng
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb&theme=dark)](https://skillicons.dev)
+## Things I code with
+
+[![My Skills](https://skillicons.dev/icons?i=react,webpack,docker,githubactions,gcp,ts,insomnia,apollographql,heroku,rollup,d3,prettier,mongodb,nodejs,redux,rxjs,graphql,sass,styledcomponents,git,nestjs,angular,npm,html5,brave)](https://skillicons.dev)
 
 **Backend & Infra**
 
@@ -54,6 +56,15 @@ I use Obsidian to document technical learnings and system designs.
 
 ## Featured Projects
 
+## Open source projects
+
+| Projects                                                                             | Stars                                                                                                                                  | Forks                                                                                                                                | Issues                                                                                                                                          | Pull requests                                                                                                                                    |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**React PullToRefresh component**](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN)            | [![stars](https://img.shields.io/github/stars/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=yellow)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN) | [![forks](https://img.shields.io/github/forks/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=blue)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN) | [![issues](https://img.shields.io/github/issues/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=orange)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN/issues) | [![pulls](https://img.shields.io/github/issues-pr/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=yellow)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN/pulls) |
+| [**Typescript & React Chrome Extension Starter**](https://github.com/TÊN_DỰ_ÁN_KHÁC) | (Lặp lại cấu trúc thẻ trên cho dự án khác...)                                                                                          |                                                                                                                                      |                                                                                                                                                 |                                                                                                                                                  |
+
+## 🚀 Hoạt động Gần đây
+
 ### 🔒 Booking & Concurrency Control System
 
 - Designed a booking system focusing on race condition prevention
@@ -78,3 +89,7 @@ I use Obsidian to document technical learnings and system designs.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voduybaokhanh&layout=compact&theme=material-palenight)
+
+### 💖 Ủng Hộ Công Việc của Tôi
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/voduybaokhanh?style=for-the-badge&logo=github&color=red)](https://github.com/sponsors/voduybaokhanh)
