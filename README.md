@@ -13,8 +13,8 @@ I use Obsidian to document technical learnings and system designs.
 
 📫 **Contact**:
 
-- Email: your_email@gmail.com
-- GitHub: https://github.com/your_github_username
+- Email: khanhvo908@gmail.com
+- GitHub: https://github.com/voduybaokhanh
 
 ## Tools & Environment
 
@@ -72,5 +72,5 @@ I use Obsidian to document technical learnings and system designs.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voduybaokhanh&layout=compact&theme=material-palenight)
