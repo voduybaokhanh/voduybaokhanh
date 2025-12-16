@@ -1,0 +1,25 @@
+name: GitHub Activity Readme
+
+on:
+  schedule:
+    # Chạy mỗi 12 giờ (hoặc bất kỳ khoảng thời gian nào bạn muốn)
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update the activity-readme
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JamesIves/github-activity-readme@v1
+        with:
+          # Đây là nơi bạn khai báo username của mình
+          USERNAME: voduybaokhanh 
+          
+          # Bạn có thể tùy chỉnh các tùy chọn sau (tùy chọn):
+          COMMIT_MSG: "feat: Update Recent Activity" # Thông điệp commit
+          MAX_DAYS: 365 # Chỉ hiển thị hoạt động trong vòng 365 ngày qua
+          MAX_LINES: 10 # Số dòng hoạt động tối đa hiển thị
+          TIMEZONE: "Asia/Ho_Chi_Minh" # Thay đổi múi giờ (nếu cần)
