@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## Xin chào! Tôi là [Tên của bạn] 👋
+
+Tôi là một **[Chức danh/Vị trí]** đam mê **[Lĩnh vực bạn quan tâm]** và luôn tìm kiếm cơ hội học hỏi những công nghệ mới.
+
+* 🔭 Tôi hiện đang làm việc tại **[Tên công ty/Dự án]**.
+* 🌱 Tôi đang học thêm về **[Ngôn ngữ/Công nghệ]**.
+* 📫 Cách tốt nhất để liên hệ với tôi: **[Email của bạn]**.
+* ⚡ Fun fact: **[Một sự thật thú vị về bạn]**.
+---
+
 <!--
 **voduybaokhanh/voduybaokhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
