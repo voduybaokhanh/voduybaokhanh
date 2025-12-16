@@ -1,18 +1,20 @@
-# Hi — I'm Vo Duy Bao Khanh 👋
+# Hi, I'm Vo Duy Bao Khanh 👋
 
-Backend developer from Vietnam, based in Ho Chi Minh City. I specialize in building reliable backend systems with a focus on data consistency, concurrency control, and operational stability.
+Backend Developer from Viet Nam, based in Ho Chi Minh City.  
+I focus on building backend systems with an emphasis on **data consistency, concurrency control, and system reliability**.  
+I use Obsidian to document technical learnings and system designs.
 
-## About
+## About Me
 
-- **Experience:** ~2 years in backend development
-- **Focus Areas:** API design, database modeling, concurrency handling, and system reliability
-- **Interests:** System design, performance tuning, and clear technical documentation
-- **Environment:** Comfortable working in Linux-based systems and containerized deployments
+- Backend Developer with ~2 years of experience
+- Strong focus on API design, database modeling, and concurrency handling
+- Interested in system design, performance tuning, and backend architecture
+- Comfortable working on Linux-based environments
 
-## Contact
+📫 **Contact**:
 
-- **Email:** khanhvo908@gmail.com
-- **GitHub:** https://github.com/voduybaokhanh
+- Email: khanhvo908@gmail.com
+- GitHub: https://github.com/voduybaokhanh
 
 ## Tools & Environment
 
@@ -24,51 +26,70 @@ Backend developer from Vietnam, based in Ho Chi Minh City. I specialize in build
 
 ## Technology Stack
 
-### Backend & Infrastructure
+### 💻 Công Nghệ Tôi Đã Sử Dụng
+
+## Things I code with
+
+[![My Skills](https://skillicons.dev/icons?i=react,webpack,docker,githubactions,gcp,ts,insomnia,apollographql,heroku,rollup,d3,prettier,mongodb,nodejs,redux,rxjs,graphql,sass,styledcomponents,git,nestjs,angular,npm,html5,brave)](https://skillicons.dev)
+
+**Backend & Infra**
 
 - Python (Django, Flask)
-- Go (concurrency-oriented services)
+- Go (basic services, concurrency-oriented components)
 - RESTful API design
-- Docker & Docker Compose
+- Docker, Docker Compose
 - Nginx
+- Linux
 
-### Data & Messaging
+**Data & Messaging**
 
 - MySQL, PostgreSQL
 - MongoDB
 - Redis
-- RabbitMQ, Kafka (basic)
+- RabbitMQ
+- Kafka (basic usage)
 
-### Observability
+**Observability**
 
 - Grafana
 - Elasticsearch / Kibana
 
-## Selected Projects
+## Featured Projects
 
-### Booking & Concurrency Control
+## Open source projects
 
-- Designed a booking system focused on preventing race conditions
-- Implemented database locking strategies and transactional safeguards
-- Explored optimistic vs. pessimistic locking trade-offs
+| Projects                                                                             | Stars                                                                                                                                  | Forks                                                                                                                                | Issues                                                                                                                                          | Pull requests                                                                                                                                    |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**React PullToRefresh component**](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN)            | [![stars](https://img.shields.io/github/stars/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=yellow)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN) | [![forks](https://img.shields.io/github/forks/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=blue)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN) | [![issues](https://img.shields.io/github/issues/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=orange)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN/issues) | [![pulls](https://img.shields.io/github/issues-pr/TÊN_DỰ_ÁN_CỦA_BẠN?style=flat-square&color=yellow)](https://github.com/TÊN_DỰ_ÁN_CỦA_BẠN/pulls) |
+| [**Typescript & React Chrome Extension Starter**](https://github.com/TÊN_DỰ_ÁN_KHÁC) | (Lặp lại cấu trúc thẻ trên cho dự án khác...)                                                                                          |                                                                                                                                      |                                                                                                                                                 |                                                                                                                                                  |
+
+## 🚀 Hoạt động Gần đây
+
+### 🔒 Booking & Concurrency Control System
+
+- Designed a booking system focusing on race condition prevention
+- Applied database locking strategies and transaction isolation
+- Explored optimistic vs pessimistic locking trade-offs
 - Repo: https://github.com/your_github_username/booking_concurrency
 
-### Internal Pricing Management
+### 📦 Internal Pricing Management System
 
-- Built backend APIs for versioned pricing by company and supplier
-- Emphasized data integrity, validation, and maintainability
+- Backend APIs for internal pricing configuration
+- Handled versioned pricing by company and supplier
+- Emphasis on data integrity and validation
 
-## Ongoing Learning
+## What I’m Improving Now
 
-- Deepening knowledge of database isolation levels
+- Deeper understanding of database isolation levels
 - Designing scalable backend services
-- Writing clearer, more actionable technical documentation
+- Writing clearer technical documentation
+- Improving system design communication
 
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voduybaokhanh&layout=compact&theme=material-palenight)
 
-## Support
+### 💖 Ủng Hộ Công Việc của Tôi
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/voduybaokhanh?style=for-the-badge&logo=github&color=red)](https://github.com/sponsors/voduybaokhanh)
