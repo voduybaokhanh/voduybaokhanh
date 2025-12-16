@@ -26,6 +26,10 @@ I use Obsidian to document technical learnings and system designs.
 
 ## Technology Stack
 
+### 💻 Công Nghệ Tôi Đã Sử Dụng
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb&theme=dark)](https://skillicons.dev)
+
 **Backend & Infra**
 
 - Python (Django, Flask)
