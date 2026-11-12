@@ -124,14 +124,11 @@ flowchart LR
 
 ---
 
-## 🕒 Recent GitHub Activity
+## 📊 GitHub Stats & Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voduybaokhanh&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
