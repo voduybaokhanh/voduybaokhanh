@@ -41,25 +41,25 @@ I build production systems where **AI agents, operational pipelines, and full-st
 
 ```mermaid
 flowchart LR
-  subgraph Channels["Messaging & E-Commerce Channels"]
-    Z[Zalo OA / Messenger]
-    M[Shopee / Lazada / TikTok]
-    W[Web Storefronts & ERP APIs]
+  subgraph Channels["Messaging and E-Commerce"]
+    Z["Zalo OA and Messenger"]
+    M["Shopee, Lazada, TikTok"]
+    W["Web Storefronts and ERP"]
   end
 
-  subgraph Core["Orchestration & State Layer"]
-    N["n8n Workflows (29 Active)"]
-    P[(PostgreSQL: Locks, Buffer, Staging)]
-    D["Docker Infra (Ofelia · OliveTin · CF Tunnel)"]
+  subgraph Core["Orchestration and State"]
+    N["n8n Workflows - 29 Active"]
+    P[("PostgreSQL Locks and Staging")]
+    D["Docker, Ofelia, OliveTin, Tunnel"]
   end
 
-  subgraph Intelligence["AI & Internal Web Tools"]
+  subgraph Intelligence["AI and Internal Web Tools"]
     A["3-Stage Gemini Multi-Agent"]
-    R["Hybrid RAG (Vector + FTS + Reranker)"]
-    V["Vision & Ops Apps (ONNX · WASM · Flask · Next.js)"]
+    R["Hybrid RAG and Reranker"]
+    V["ONNX, WASM, Flask, Next.js"]
   end
 
-  L["Team Ops (Lark Cards, Base, Tasks)"]
+  L["Lark Cards, Base and Tasks"]
 
   Z --> N
   M --> N
@@ -124,11 +124,22 @@ flowchart LR
 
 ---
 
+## 🕒 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voduybaokhanh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=voduybaokhanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=voduybaokhanh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=voduybaokhanh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
